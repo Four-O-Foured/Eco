@@ -194,21 +194,22 @@ body {
       .capsule1 {
         width: 5vw;
         height: 3vw;
-        background-image: url("/assets/images/bluegirl.jpg");
+        background-image: url("assets/images/bluegirl.jpg");
         background-size: cover;
         background-position: 0% 60%;
+        
       }
       .capsule2 {
         width: 8.3vw;
         height: 3vw;
-        background-image: url("/assets/images/shaljam.jpg");
+        background-image: url("assets/images/shaljam.jpg");
         background-size: cover;
         background-position: center;
       }
       .capsule3 {
         width: 5.8vw;
         height: 3vw;
-        background-image: url("/assets/images/grass.jpg");
+        background-image: url("assets/images/grass.jpg");
         background-size: cover;
       }
     }

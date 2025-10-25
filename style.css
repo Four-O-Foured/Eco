@@ -1,10 +1,10 @@
 @font-face {
   font-family: "myFont";
-  src: url("assets/fonts/NimbusSanL-Reg.otf");
+  src: url("/assets/fonts/NimbusSanL-Reg.otf");
 }
 @font-face {
   font-family: "myFont2";
-  src: url("assets/fonts/NimbusSanL-Bol.otf");
+  src: url("/assets/fonts/NimbusSanL-Bol.otf");
 }
 * {
   margin: 0;
@@ -176,21 +176,21 @@ body {
 #main #motive #para .capsule1 {
   width: 5vw;
   height: 3vw;
-  background-image: url("/assets/images/bluegirl.jpg");
+  background-image: url("assets/images/bluegirl.jpg");
   background-size: cover;
   background-position: 0% 60%;
 }
 #main #motive #para .capsule2 {
   width: 8.3vw;
   height: 3vw;
-  background-image: url("/assets/images/shaljam.jpg");
+  background-image: url("assets/images/shaljam.jpg");
   background-size: cover;
   background-position: center;
 }
 #main #motive #para .capsule3 {
   width: 5.8vw;
   height: 3vw;
-  background-image: url("/assets/images/grass.jpg");
+  background-image: url("assets/images/grass.jpg");
   background-size: cover;
 }
 #main #synHar {
